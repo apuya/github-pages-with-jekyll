@@ -1,1 +1,4 @@
-Welcome to my blog!
+---
+title: "Fresh Post"
+date: 2021-05-15
+---
